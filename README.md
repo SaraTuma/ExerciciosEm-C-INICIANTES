@@ -13,3 +13,5 @@ HERE WE HAVE SOME BASIC EXERCISE RESOLUTIONS IN C (For beginners).
                       (Program that receives the height and base of a rectangle, and shows its area).
 4. maiorQue12.c -> Programa que recebe um número e verifica se é ou não maior que 10 
                   (Program that receives a number and checks whether or not it is greater than 10).
+5. imprimirCrescente.c -> Ler dois valores, considere que não serão lidos valores iguais e escrevê-los em ordem crescente
+                          (Reading two values, consider that equal values will not be read and write them in ascending order).
