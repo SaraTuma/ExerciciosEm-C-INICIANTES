@@ -11,3 +11,5 @@ HERE WE HAVE SOME BASIC EXERCISE RESOLUTIONS IN C (For beginners).
                             (Program that receives a number and shows its predecessor and successor).
 3. areaRectangulo.c -> Programa que recebe a altura e a base de um rectângulo, e mostra a sua área 
                       (Program that receives the height and base of a rectangle, and shows its area).
+4. maiorQue12.c -> Programa que recebe um número e verifica se é ou não maior que 10 
+                  (Program that receives a number and checks whether or not it is greater than 10).
