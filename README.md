@@ -9,3 +9,5 @@ HERE WE HAVE SOME BASIC EXERCISE RESOLUTIONS IN C (For beginners).
                  ( A C program that prints a message on the screen).
 2. antecessorEsucessor.c -> Programa que recebe um numero e mostra seus antecessor e sucessor 
                             (Program that receives a number and shows its predecessor and successor).
+3. areaRectangulo.c -> Programa que recebe a altura e a base de um rectângulo, e mostra a sua área 
+                      (Program that receives the height and base of a rectangle, and shows its area).
