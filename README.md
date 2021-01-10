@@ -15,3 +15,5 @@ HERE WE HAVE SOME BASIC EXERCISE RESOLUTIONS IN C (For beginners).
 4. tabuada1a9.c -> Um programa que dado um número entre 1 a 9  ele imprime a sua tabuada.
 
 5. fahrenheitCelsius.c -> Conversor de temperatura de farhrenheit para Celsius 
+
+6. inflacao.c -> Fazer  um  programa  em  "C"  que  lê  o  preço  de  um  produto  e  inflaciona  essepreço em 10% se ele for menor que 100 e em 20% se ele for maior ou igual a100
