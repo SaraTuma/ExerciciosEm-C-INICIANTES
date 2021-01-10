@@ -11,3 +11,7 @@ HERE WE HAVE SOME BASIC EXERCISE RESOLUTIONS IN C (For beginners).
 2. maiorMenor.c -> Um programa que lê dois números inteiros e imprime o maior deles caso exista, caso não imprime que os dois são iguais.
 
 3. conversoDeMetros.c -> É um programa que lê os metros dados pelo usuário e ele cálcula os correspondentes nas restantes medidas para o comprimento.
+
+4. tabuada1a9.c -> Um programa que dado um número entre 1 a 9  ele imprime a sua tabuada.
+
+5. fahrenheitCelsius.c -> Conversor de temperatura de farhrenheit para Celsius 
