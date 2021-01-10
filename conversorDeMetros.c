@@ -1,5 +1,14 @@
 #include <stdio.h>
 
+/*
+km  --> kilômetro
+hm  --> hectômetro
+dam --> decâmetro
+m   --> metro
+dm  --> decímetro
+cm  --> centímetro
+mm  --> milímetro
+*/
 int main() {
     float m, dm, cm, mm, dam, hm, km;
 
