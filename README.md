@@ -27,3 +27,6 @@ HERE WE HAVE SOME BASIC EXERCISE RESOLUTIONS IN C (For beginners).
 10. fahrenheitCelsius.c -> Conversor de temperatura de farhrenheit para Celsius 
 
 11. inflacao.c -> Fazer  um  programa  em  "C"  que  lê  o  preço  de  um  produto  e  inflaciona  essepreço em 10% se ele for menor que 100 e em 20% se ele for maior ou igual a100
+
+
+12. calculadora.c -> Fazer um programa que lê um valor, um operador (+,-,*,/) e outro valor e imprime o resultado da expressão: <valor 1> <operador> <valor 2>
