@@ -9,17 +9,18 @@ Exemplo: 13/06/1970 -> 13061970
 2. 32 + 76 = 108
 3. 108 % 5 = 3
 -> resto=3, o perfil depende do valor desta variavel:
-	o - Tímido
+	o - TÃ­mido
 	1 - Sonhador
 	2 - Paquerador
 	3 - Atraente
-	4 - Irresistúvel
+	4 - IrresistÃºvel
 */
 
 #include<stdio.h>
 
 main(){
-	int data,meio1,meio2,soma,resto;
+	//Unsigned-> para ignorar o sinal dos nÃºmeros (usar o valor absoluto)...pode testar!!!!
+	unsigned int data,meio1,meio2,soma,resto;
 	
 	printf("\nEntre com a sua data de nascimento: ");
 		scanf("%u",&data);
@@ -47,7 +48,7 @@ main(){
 		case 3: 
 			printf("\nAtraente"); break;
 		case 4: 
-			printf("\nIrresistível"); break;
-		default: printf("Opção errada!");
+			printf("\nIrresistÃ­vel"); break;
+		default: printf("OpÃ§Ã£o errada!");
 	}
 }
