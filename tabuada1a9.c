@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int primeiroFactor = 1, segundoFactor;
+    unsigned int primeiroFactor = 1, segundoFactor;
 
     printf("PROGRAMA TABUADA\n");
     printf("Digite o número que deseja ver a tabuada, entre 1 a 9: ");
