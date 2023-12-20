@@ -9,7 +9,7 @@ Exemplo: 13/06/1970 -> 13061970
 2. 32 + 76 = 108
 3. 108 % 5 = 3
 -> resto=3, o perfil depende do valor desta variavel:
-	o - Tímido
+	0 - Tímido
 	1 - Sonhador
 	2 - Paquerador
 	3 - Atraente

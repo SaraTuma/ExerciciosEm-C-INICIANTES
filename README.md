@@ -5,8 +5,6 @@ HERE WE HAVE SOME BASIC EXERCISE RESOLUTIONS IN C (For beginners).
 # Arquivos e suas descrições
 # Files and their descriptions
 
-
-
 1. olamundo.c -> Um programa em c que imprime uma mensagem na tela
                  ( A C program that prints a message on the screen).
 2. antecessorEsucessor.c -> Programa que recebe um numero e mostra seus antecessor e sucessor 
@@ -32,3 +30,15 @@ HERE WE HAVE SOME BASIC EXERCISE RESOLUTIONS IN C (For beginners).
 12. calculadora.c -> Fazer um programa que lê um valor, um operador (+,-,*,/) e outro valor e imprime o resultado da expressão: <valor 1> <operador> <valor 2>
 
 13. calculadoraMediaAlunos -> Escrever um programa em "C" que solicita as notas das duas provas feitas por cada um dos alunos de uma turma (as notas tem de estar no intervalo [0 10]) e imprime para cada um a média das notas. O programa deve parar imediatamente após ter sido digitado o valor 50 para a nota da primeira prova. Depois imprimir a média geral da turma a quantidade de alunos processados, o id (o número) do primeiro aluno com a maior média e qual foi a sua média.
+
+14. contarDigitosNumero.c -> Um programa que recebe um número inteiro e mostra quantos digitos o mesmo possui.
+
+15. capicuaDoisDigitos.c -> Um programa que recebe dois números inteiros com apenas dois digitos e verifica se os digitos de um correm na ordem inversa do segundo, chamamos de capicua ou polindrome. 
+
+16. serieTelescopica.c -> O Programa recebe um número inteiro e calcula o valor da serie telescopica. A serie = (1 - 1/2) + (1/2 - 1/3) + (1/3 - 1/4)+ ...
+
+17. maiorMenorMedioEntreAlturas.c -> O Programa recebe "N" alturas e verifica a maior, menor e valor medio entre elas.
+
+18. verificaTriangulo.c -> O Programa recebe 3 lados de um triangulo e verifica que tipo de triangulo eles formam.
+
+
